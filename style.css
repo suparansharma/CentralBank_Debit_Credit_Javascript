@@ -13,3 +13,22 @@ body{
 #transaction-Area{
     display: none;
 }
+
+.deposit{
+    background-color: pink;
+}
+
+.withdraw{
+    background-color: aqua;
+}
+
+
+.balance{
+    background-color:orange;
+}
+
+.status{
+    margin:0 20px;
+    color:white;
+    padding:20px;
+}
